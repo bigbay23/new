@@ -1277,7 +1277,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="250"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screen Shot 2019-10-24 at 9.57.09 PM" translatesAutoresizingMaskIntoConstraints="NO" id="b7Q-ac-Bsg">
-                                <rect key="frame" x="-36" y="258" width="450" height="408"/>
+                                <rect key="frame" x="-36" y="258" width="450" height="816"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -8830,7 +8830,7 @@
                                 <rect key="frame" x="0.0" y="265" width="414" height="471"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screen Shot 2019-11-10 at 11.58.47 AM" translatesAutoresizingMaskIntoConstraints="NO" id="ipH-j9-ANP">
-                                        <rect key="frame" x="0.0" y="0.0" width="414.00000000000011" height="445"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="445"/>
                                     </imageView>
                                 </subviews>
                                 <constraints>
